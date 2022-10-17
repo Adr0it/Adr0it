@@ -1,6 +1,3 @@
-Pretty clueless but learning.
+Hello, I'm Ihor. I'm pursuing an undergraduate degree in Statistics and hope to learn programming and data skills while in college.
 
-<!---
-Adr0it/Adr0it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm also intrigued by operations research and hope to learn more about it.
