@@ -1,1 +1,1 @@
-Hello, I'm Ihor. I'm pursuing an undergraduate degree in Statistics and hope to learn programming and data skills while in college.
+Hello, I'm Ihor. I'm pursuing an undergraduate degree in Statistics. Aside from learning programming and data skills, my interest lies in optimization and decision-making (like Operations Research). 
